@@ -32,7 +32,7 @@
 ## Peliculas 
 
 - Hawking.
-- me before you.
+- Yo antes de ti.
 
 ## Comidas 
 
